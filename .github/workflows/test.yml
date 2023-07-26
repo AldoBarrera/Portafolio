@@ -1,8 +1,8 @@
-name: Build Containers for Prod & Push to Dockerhub
+name: Build Containers for test & Push to Dockerhub
 on:
   push:
     branches:
-      - main
+      - develop
 
 jobs:
   build-and-deploy-back:
@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: docker.jala.pro/websites/jalasoft:2.0-PRODUCTION
+          tags: docker.jala.pro/websites/jalasoft:2.0-TESTING
