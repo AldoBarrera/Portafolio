@@ -1,0 +1,26 @@
+{
+  "name": "activecampaignmonorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign dev",
+    "build:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign build",
+    "build:static:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign build:static",
+    "start:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign start",
+    "lint:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign lint",
+    "test:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign test",
+    "generate:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign generate",
+    "lint": "yarn lint:activecampaign",
+    "test": "yarn test:activecampaign",
+    "build": "yarn build:activecampaign",
+    "build:static": "yarn build:static:activecampaign"
+  },
+  "workspaces": [
+    "common/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "next-compose-plugins": "^2.2.1",
+    "next-transpile-modules": "^9.0.0"
+  }
+}

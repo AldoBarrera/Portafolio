@@ -1,0 +1,7 @@
+{
+  "name": "@common/prettier-config-jala",
+  "version": "1.0.0",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
