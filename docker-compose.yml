@@ -45,8 +45,8 @@ services:
         - /var/run/docker.sock:/var/run/docker.sock
         - $HOME/.docker/config.json:/config.json
       command: --interval 30
-  networks:
-    websites:
-      driver: bridge
-  volumes:
-    logs_data:
+networks:
+  websites:
+    driver: bridge
+volumes:
+  logs_data:
