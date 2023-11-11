@@ -4,7 +4,8 @@ const APIKey =
   process.env.ACTIVECAMPAIGN_API_KEY ||
   '88ba14ca8bae3ff5f70b40c44c9603b95a2bbf9c14f94dc84406a1e4e9923391849da0d6'
 const baseURL =
-  process.env.ACTIVECAMPAIGN_BASE_API_URL || 'https://jalauniversity.activehosted.com/'
+  process.env.ACTIVECAMPAIGN_BASE_API_URL ||
+  'https://jalauniversity.activehosted.com/'
 
 const defaultList = parseInt(process.env.ACTIVECAMPAIGN_LIST) || 13
 const apiVersion = 3
@@ -161,7 +162,7 @@ export function addContactToListFromClient(data) {
 }
 
 export function addContactToListFromClientMock(data) {
-  console.log("Se inserto correctamente data " + data)
+  console.log('Se inserto correctamente data ' + data)
   return axios
     .post(`/api/activeCampaign`, data)
     .then((response) => {

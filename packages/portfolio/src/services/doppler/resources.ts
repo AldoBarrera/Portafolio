@@ -99,8 +99,13 @@ export async function getListIDByName(name) {
   return listId
 }
 
-export const Doppler = async(FormInputs: FormInputs): Promise<ResponseType> => {
-  console.log("Envia Datos a Dopler")
-  const res = await addSuscriberToList('Contact Us - Home Form', getJSONBody(FormInputs))
+export const Doppler = async (
+  FormInputs: FormInputs
+): Promise<ResponseType> => {
+  console.log('Envia Datos a Dopler')
+  const res = await addSuscriberToList(
+    'Contact Us - Home Form',
+    getJSONBody(FormInputs)
+  )
   return res
 }

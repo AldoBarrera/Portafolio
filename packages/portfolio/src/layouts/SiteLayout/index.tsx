@@ -28,7 +28,7 @@ const SiteLayout = ({
 }: IProps) => {
   return (
     <Style.SiteLayoutWrapper>
-      {!withoutNav && 
+      {!withoutNav &&
         navs?.map(({ container, ...block }, index) => {
           return (
             <Container
@@ -40,8 +40,7 @@ const SiteLayout = ({
               {DynamicSection(block, index)}
             </Container>
           )
-        })
-      }
+        })}
       {sidebar ? (
         <>
           <Grid columnsNumber={12} columnMinSizes={30}>

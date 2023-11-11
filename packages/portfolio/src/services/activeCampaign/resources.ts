@@ -163,7 +163,7 @@ export function addContactToListFromClient(data) {
 }
 
 export function addContactToListFromClientMock(data) {
-  console.log("Se inserto correctamente data " + data)
+  console.log('Se inserto correctamente data ' + data)
   return axios
     .post(`/api/activeCampaign`, data)
     .then((response) => {
@@ -174,8 +174,10 @@ export function addContactToListFromClientMock(data) {
     })
 }
 
-export const ActiveCampaign = async(FormInputs: FormInputs): Promise<ResponseType> => {
-  console.log("Se inserto a AC")
+export const ActiveCampaign = async (
+  FormInputs: FormInputs
+): Promise<ResponseType> => {
+  console.log('Se inserto a AC')
   const res = await addContactToListFromClientMock(FormInputs)
   return res
 }
