@@ -1,0 +1,10 @@
+[2023-03-21T10:33:05.424] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2023-03-21T10:33:05.425] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-03-21T10:33:11.553] [INFO] app - IpFromBody: Page: /blog - ip:undefined
+[2023-03-21T10:33:11.553] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-03-21T10:33:33.608] [INFO] app - IpFromBody: Page: /blog/[id] - ip:undefined
+[2023-03-21T10:33:33.609] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-03-21T13:48:42.859] [INFO] app - IpFromBody: Page: /blog/[id] - ip:undefined
+[2023-03-21T13:48:42.859] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-03-21T19:14:31.971] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2023-03-21T19:14:31.971] [INFO] app - remoteAddress: ::ffff:127.0.0.1

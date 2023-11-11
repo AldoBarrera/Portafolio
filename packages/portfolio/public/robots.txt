@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+
+Disallow: /*?search=* 
+
+# Host
+Host: http://www.jalasoft.com
+
+# Sitemaps
+Sitemap: http://www.jalasoft.com/sitemap.xml

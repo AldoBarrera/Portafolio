@@ -1,0 +1,337 @@
+[2022-11-25T08:26:48.949] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10
+[2022-11-25T10:35:31.313] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10
+[2022-11-25T16:56:11.842] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-25T16:56:11.843] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:11.845] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-11-25T16:56:11.846] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:12.515] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10
+[2022-11-25T16:56:13.030] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:13.031] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:13.039] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:13.039] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:13.043] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:13.044] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:13.044] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:13.045] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:13.046] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:13.046] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:13.057] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:13.057] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:14.010] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:14.010] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:14.084] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-11-25T16:56:14.085] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:15.368] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10
+[2022-11-25T16:56:16.987] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:16.987] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:16.988] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:16.988] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:17.059] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:17.060] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:17.306] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:17.307] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:17.902] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:17.902] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:20.788] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:20.788] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:20.790] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:20.790] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:20.790] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:20.790] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:20.794] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:20.794] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:20.795] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:20.795] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.082] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.082] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.084] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.084] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.085] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.086] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.087] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.087] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.087] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.088] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.127] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.127] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.130] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.130] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.131] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.131] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.132] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.132] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.133] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.133] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.250] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.250] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.251] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.251] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.252] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.252] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.259] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.259] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.260] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.260] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.561] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.561] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.562] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.562] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.565] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.565] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.566] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.566] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:21.567] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:21.567] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:28.654] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:28.654] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:28.655] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:28.655] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:28.658] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:28.658] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:28.658] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:28.658] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:28.659] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:28.659] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:33.891] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-11-25T16:56:33.891] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:34.939] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10
+[2022-11-25T16:56:35.122] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:35.122] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:35.128] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:35.128] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:35.129] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:35.129] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:35.130] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:35.130] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:35.132] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:35.132] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:35.147] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:35.147] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:36.010] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:36.010] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:36.086] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-11-25T16:56:36.086] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:37.130] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10
+[2022-11-25T16:56:37.271] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:37.271] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:38.659] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:38.659] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:38.664] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:38.664] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:38.672] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:38.672] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:38.673] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:38.674] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:40.206] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:40.206] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.290] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.291] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.291] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.291] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.292] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.292] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.293] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.293] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.297] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.298] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.572] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.573] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.577] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.577] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.578] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.578] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.579] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.579] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.580] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.580] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.663] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.664] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.666] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.666] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.667] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.667] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.667] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.667] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.671] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.671] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.823] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.823] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.826] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.826] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.827] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.827] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.827] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.827] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:42.834] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:42.834] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:43.223] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:43.223] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:43.226] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:43.226] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:43.227] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:43.227] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:43.227] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:43.228] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:43.229] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:43.229] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:51.367] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-11-25T16:56:51.367] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:53.335] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10
+[2022-11-25T16:56:53.524] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:53.524] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:53.529] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:53.529] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:53.530] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:53.530] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:53.531] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:53.531] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:53.531] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:53.532] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:53.533] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:53.534] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:54.420] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:54.421] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:54.500] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-11-25T16:56:54.500] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:55.444] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10
+[2022-11-25T16:56:55.639] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:55.639] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:56.749] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:56.749] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:56.750] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:56.751] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:56.759] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:56.759] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:56.761] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:56.761] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:56:58.651] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:56:58.651] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.509] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.510] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.511] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.511] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.511] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.512] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.512] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.512] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.514] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.514] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.707] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.707] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.708] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.708] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.710] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.710] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.711] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.711] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.712] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.712] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.766] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.766] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.767] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.767] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.771] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.771] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.772] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.772] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:00.774] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:00.774] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:11.582] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:11.582] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:11.583] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:11.583] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:11.587] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:11.588] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:11.589] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:11.589] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:11.591] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:11.591] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:14.496] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:14.497] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:14.498] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:14.498] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:14.500] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:14.500] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:14.500] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:14.500] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T16:57:14.502] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T16:57:14.502] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:00:53.801] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-11-25T17:00:53.801] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:00:55.213] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10
+[2022-11-25T17:00:55.397] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:00:55.397] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:00:55.400] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:00:55.400] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:00:55.405] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:00:55.405] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:00:55.407] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:00:55.407] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:00:55.407] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:00:55.407] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:00:55.416] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:00:55.416] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:00:56.315] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:00:56.316] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:00:56.417] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-11-25T17:00:56.417] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:00:57.883] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10
+[2022-11-25T17:00:58.164] [ERROR] app - Id - 500 - getStaticProps -Error on get contentful page: hire-developers
+[2022-11-25T17:00:58.362] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:00:58.362] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:00:58.363] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:00:58.363] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:00:58.364] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:00:58.364] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:00.487] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:01:00.487] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:53.245] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-11-25T17:01:53.245] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:54.541] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10
+[2022-11-25T17:01:54.707] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:01:54.707] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:54.724] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:01:54.724] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:54.726] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:01:54.726] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:54.727] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:01:54.727] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:54.727] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:01:54.727] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:54.738] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:01:54.738] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:55.649] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:01:55.649] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:55.721] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-11-25T17:01:55.721] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:56.825] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10
+[2022-11-25T17:01:57.109] [ERROR] app - Id - 500 - getStaticProps -Error on get contentful page: fdsfdsfs
+[2022-11-25T17:01:57.291] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:01:57.291] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:57.292] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:01:57.292] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:57.292] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:01:57.292] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:01:59.846] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:01:59.846] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:02:00.935] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:02:00.936] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:02:00.939] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:02:00.939] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:02:00.939] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:02:00.939] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:02:01.395] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:02:01.395] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:02:01.396] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:02:01.396] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:02:01.397] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:02:01.397] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:02:01.473] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:02:01.473] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:02:01.474] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:02:01.474] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:02:01.476] [INFO] app - IpFromBody: Page: /[id]/[subpage] - ip:undefined
+[2022-11-25T17:02:01.476] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:25:32.117] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-11-25T17:25:32.118] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-25T17:25:33.417] [ERROR] app - Id - false - The value provided for "include" is invalid. Please provide a value between 0 and 10

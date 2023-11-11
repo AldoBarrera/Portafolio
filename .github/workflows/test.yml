@@ -26,5 +26,10 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           context: .
+          build-args: |
+            "CONTENTFUL_SPACE_ID=${{ secrets.CONTENTFUL_SPACE_ID }}"
+            "CONTENTFUL_ACCESS_KEY=${{ secrets.CONTENTFUL_ACCESS_KEY }}"
+            "NEXT_PUBLIC_APP_ENV=${{ vars.NEXT_PUBLIC_APP_ENV }}"
+            "CONTENTFUL_HOST=${{ vars.CONTENTFUL_HOST }}"
           push: true
-          tags: docker.jala.pro/websites/jalasoft:2.0-TESTING
+          tags: docker.jala.pro/websites/jalasoft:2.0-POC

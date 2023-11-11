@@ -1,0 +1,12 @@
+[2023-06-05T14:20:06.125] [ERROR] app - Subpage - false - itemSubPage.map is not a function
+[2023-06-05T14:20:13.650] [ERROR] app - Subpage - false - itemSubPage.map is not a function
+[2023-06-05T14:21:06.634] [ERROR] app - SecondSubpage - false - itemSubPage.map is not a function
+[2023-06-05T14:21:08.391] [ERROR] app - SecondSubpage - false - itemSubPage.map is not a function
+[2023-06-05T14:21:45.631] [ERROR] app - SecondSubpage - false - itemSubPage.map is not a function
+[2023-06-05T14:21:48.041] [ERROR] app - SecondSubpage - false - itemSubPage.map is not a function
+[2023-06-05T16:33:00.902] [ERROR] app - SecondSubpage - 500 - The query you sent was invalid. Probably a filter or ordering specification is not applicable to the type of a field.
+[2023-06-05T16:33:02.258] [ERROR] app - SecondSubpage - 500 - The query you sent was invalid. Probably a filter or ordering specification is not applicable to the type of a field.
+[2023-06-05T16:49:51.103] [ERROR] app - SecondSubpage - false - Cannot read properties of undefined (reading 'slug')
+[2023-06-05T16:49:52.476] [ERROR] app - SecondSubpage - false - Cannot read properties of undefined (reading 'slug')
+[2023-06-05T17:21:58.428] [ERROR] app - SecondSubpage - false - item is not defined
+[2023-06-05T17:21:59.771] [ERROR] app - SecondSubpage - false - item is not defined

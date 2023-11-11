@@ -1,5 +1,5 @@
 {
-  "name": "activecampaignmonorepo",
+  "name": "portfoliomonorepo",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -8,12 +8,51 @@
     "build:static:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign build:static",
     "start:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign start",
     "lint:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign lint",
+    "lint:activecampaign:fix": "yarn workspace @activecampaignmonorepo/activecampaign lint --fix",
     "test:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign test",
     "generate:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign generate",
-    "lint": "yarn lint:activecampaign",
-    "test": "yarn test:activecampaign",
-    "build": "yarn build:activecampaign",
-    "build:static": "yarn build:static:activecampaign"
+
+    "dev:components-library": "yarn workspace @common/components-library dev",
+    "build:components-library": "yarn workspace @common/components-library build",
+    "build:static:components-library": "yarn workspace @common/components-library build:static",
+    "start:components-library": "yarn workspace @common/components-library start",
+    "lint:components-library": "yarn workspace @common/components-library lint",
+    "test:components-library": "yarn workspace @common/components-library test",
+    "storybook:components-library": "yarn workspace @common/components-library storybook",
+    "build-storybook:components-library": "yarn workspace @common/components-library build-storybook",
+  
+    "dev:portfolio": "yarn workspace @portfoliomonorepo/portfolio dev",
+    "build:portfolio": "yarn workspace @portfoliomonorepo/portfolio build",
+    "build:static:portfolio": "yarn workspace @portfoliomonorepo/portfolio build:static",
+    "start:portfolio": "yarn workspace @portfoliomonorepo/portfolio start",
+    "lint:portfolio": "yarn workspace @portfoliomonorepo/portfolio lint",
+    "test:portfolio": "yarn workspace @portfoliomonorepo/portfolio test",
+    "generate:portfolio": "yarn workspace @portfoliomonorepo/portfolio generate",
+
+    "dev:jalasoft": "yarn workspace @jalamonorepo/jalasoft dev",
+    "build:jalasoft": "yarn workspace @jalamonorepo/jalasoft build",
+    "build:static:jalasoft": "yarn workspace @jalamonorepo/jalasoft build:static",
+    "start:jalasoft": "yarn workspace @jalamonorepo/jalasoft start",
+    "lint:jalasoft": "yarn workspace @jalamonorepo/jalasoft lint",
+    "test:jalasoft": "yarn workspace @jalamonorepo/jalasoft test",
+    "test:watch:jalasoft": "yarn workspace @jalamonorepo/jalasoft test:watch",
+    "generate:jalasoft": "yarn workspace @jalamonorepo/jalasoft generate",
+    "storybook:jalasoft": "yarn workspace @jalamonorepo/jalasoft storybook",
+    "build-storybook:jalasoft": "yarn workspace @jalamonorepo/jalasoft build-storybook",
+
+    "dev:jalastore": "yarn workspace @jalastoremonorepo/jalastore dev",
+    "build:jalastore": "yarn workspace @jalastoremonorepo/jalastore build",
+    "build:static:jalastore": "yarn workspace @jalastoremonorepo/jalastore build:static",
+    "start:jalastore": "yarn workspace @jalastoremonorepo/jalastore start",
+    "lint:jalastore": "yarn workspace @jalastoremonorepo/jalastore lint",
+    "test:jalastore": "yarn workspace @jalastoremonorepo/jalastore test",
+    "generate:jalastore": "yarn workspace @jalastoremonorepo/jalastore generate",
+
+
+    "lint": "yarn lint:portfolio",
+    "test": "yarn test:portfolio",
+    "build": "yarn build:portfolio",
+    "build:static": "yarn build:static:portfolio"
   },
   "workspaces": [
     "common/*",

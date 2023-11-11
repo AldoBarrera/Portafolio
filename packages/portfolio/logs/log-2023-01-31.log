@@ -1,0 +1,8 @@
+[2023-01-31T11:24:30.258] [INFO] app - IpFromBody: Page: /about-us - ip:undefined
+[2023-01-31T11:24:30.258] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-31T11:24:30.489] [INFO] app - IpFromBody: Page: /about-us - ip:undefined
+[2023-01-31T11:24:30.489] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-31T11:24:30.916] [INFO] app - IpFromBody: Page: /about-us - ip:undefined
+[2023-01-31T11:24:30.916] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-31T11:24:30.921] [INFO] app - IpFromBody: Page: /about-us - ip:undefined
+[2023-01-31T11:24:30.921] [INFO] app - remoteAddress: ::ffff:127.0.0.1

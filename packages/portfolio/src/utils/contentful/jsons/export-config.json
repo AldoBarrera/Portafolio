@@ -1,0 +1,19 @@
+{
+  "spaceId": "<source space id>",
+  "environmentId": "master",
+  "exportDir": "/path/to/export/directory",
+  "saveFile": true,
+  "contentFile": "export-contenful-data.json",
+  "includeDrafts": false,
+  "includeArchived": false,
+  "skipContentModel": false,
+  "skipContent": false,
+  "skipRoles": false,
+  "skipWebhooks": false,
+  "contentOnly": false,
+  "downloadAssets": false,
+  "rawProxy": false,
+  "maxAllowedLimit": 1000,
+  "errorLogFile": "/path/to/error.log",
+  "useVerboseRenderer": false
+}

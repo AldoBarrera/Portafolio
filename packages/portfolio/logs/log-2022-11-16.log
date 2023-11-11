@@ -1,0 +1,89 @@
+[2022-11-16T02:31:34.406] [INFO] app - IpFromBody: [object Object]
+[2022-11-16T02:31:34.406] [INFO] app - remoteAddress: ::1
+[2022-11-16T02:31:34.409] [INFO] app - IpFromBody: Page: /api/log - ip:undefined
+[2022-11-16T02:31:34.410] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-16T02:35:44.952] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-16T02:35:44.952] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-16T02:36:06.726] [INFO] app - { error: {} }
+[2022-11-16T02:36:06.728] [INFO] app - IpFromBody: Page: /api/log - ip:undefined
+[2022-11-16T02:36:06.728] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-16T02:37:59.842] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-16T02:37:59.843] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-16T02:38:18.276] [INFO] app - {
+  error: {
+    message: 'Network Error',
+    name: 'Error',
+    stack: 'Error: Network Error\n' +
+      '    at createError (webpack-internal:///../../node_modules/axios/lib/core/createError.js:16:15)\n' +
+      '    at XMLHttpRequest.handleError (webpack-internal:///../../node_modules/axios/lib/adapters/xhr.js:99:14)',
+    config: {
+      url: 'https://restapi.fromdoppler.com/accounts/hubmarketing@jalasoft.com/lists?per_page=150',
+      method: 'get',
+      headers: [Object],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      transitional: [Object]
+    }
+  }
+}
+[2022-11-16T02:38:18.282] [INFO] app - IpFromBody: Page: /api/log - ip:undefined
+[2022-11-16T02:38:18.282] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-16T02:40:51.257] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-16T02:40:51.257] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-16T02:41:11.874] [INFO] app - {
+  error: {
+    message: 'Network Error',
+    name: 'Error',
+    stack: 'Error: Network Error\n' +
+      '    at createError (webpack-internal:///../../node_modules/axios/lib/core/createError.js:16:15)\n' +
+      '    at XMLHttpRequest.handleError (webpack-internal:///../../node_modules/axios/lib/adapters/xhr.js:99:14)',
+    config: {
+      url: 'https://restapi.fromdoppler.com/accounts/hubmarketing@jalasoft.com/lists?per_page=150',
+      method: 'get',
+      headers: [Object],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      transitional: [Object]
+    }
+  }
+}
+[2022-11-16T02:41:11.877] [INFO] app - IpFromBody: Page: /api/log - ip:undefined
+[2022-11-16T02:41:11.877] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-16T02:42:02.275] [INFO] app - IpFromBody: Page: /our-services - ip:undefined
+[2022-11-16T02:42:02.275] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-16T02:44:02.509] [INFO] app - IpFromBody: Page: /our-services - ip:undefined
+[2022-11-16T02:44:02.509] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-16T02:44:30.241] [INFO] app - {
+  error: {
+    message: 'Network Error',
+    name: 'Error',
+    stack: 'Error: Network Error\n' +
+      '    at createError (webpack-internal:///../../node_modules/axios/lib/core/createError.js:16:15)\n' +
+      '    at XMLHttpRequest.handleError (webpack-internal:///../../node_modules/axios/lib/adapters/xhr.js:99:14)',
+    config: {
+      url: 'https://restapi.fromdoppler.com/accounts/hubmarketing@jalasoft.com/lists?per_page=150',
+      method: 'get',
+      headers: [Object],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      transitional: [Object]
+    }
+  }
+}
+[2022-11-16T02:44:30.244] [INFO] app - IpFromBody: Page: /api/log - ip:undefined
+[2022-11-16T02:44:30.244] [INFO] app - remoteAddress: ::ffff:127.0.0.1

@@ -1,0 +1,161 @@
+[2022-11-15T04:14:12.875] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:12.876] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:13.359] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:13.360] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:25.729] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:25.729] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:26.259] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:26.259] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:32.773] [INFO] app - IpFromBody: Page: /blog - ip:undefined
+[2022-11-15T04:14:32.774] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:36.356] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:36.356] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:36.600] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:36.600] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:37.578] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:37.578] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:37.843] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:37.843] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:38.681] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:38.681] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:38.928] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:38.928] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:39.686] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:39.686] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:39.935] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:39.935] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:40.843] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:40.843] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:41.075] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:41.075] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:41.903] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:41.904] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:42.142] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:42.142] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:42.940] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:42.940] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:43.156] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:43.156] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:44.686] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:44.686] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:44.978] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:44.978] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:46.448] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:46.448] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:46.686] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:46.687] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:48.010] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:48.010] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:14:48.242] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:14:48.243] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:07.568] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:07.568] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:07.802] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:07.802] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:08.716] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:08.716] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:08.947] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:08.948] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:09.735] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:09.735] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:09.970] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:09.971] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:10.480] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:10.480] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:10.779] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:10.779] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:11.949] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:11.949] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:12.173] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:12.173] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:13.135] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:13.135] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:13.369] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:13.370] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:14.404] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:14.404] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:14.628] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:14.628] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:16.231] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:16.231] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:16.461] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:16.461] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:17.525] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:17.525] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:17.741] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:17.742] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:18.650] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:18.650] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:18.942] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:18.942] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:19.678] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:19.678] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:19.908] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:19.909] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:21.140] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:21.140] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:21.368] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:21.368] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:22.536] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:22.536] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:22.776] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:22.776] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:23.569] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:23.569] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:23.802] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:23.802] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:24.653] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:24.653] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:24.890] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:24.890] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:25.606] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:25.606] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:25.834] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:25.835] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:26.715] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:26.715] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:15:26.948] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-15T04:15:26.949] [INFO] app - remoteAddress: 127.0.0.1
+[2022-11-15T04:25:19.718] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T04:25:20.148] [ERROR] app - page-not-found - 400 - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T04:28:05.636] [ERROR] app - page-not-found - 400 - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T04:28:05.828] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T04:29:06.884] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T04:29:08.426] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T04:29:09.700] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T04:29:11.399] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T04:34:37.183] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T04:34:38.941] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T04:34:41.268] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T04:34:42.409] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T04:34:49.451] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - getaddrinfo EAI_AGAIN preview.contentful.com
+[2022-11-15T11:19:45.332] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:23:39.928] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:23:45.642] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:23:58.126] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:31:13.271] [ERROR] app - page-not-found - 400 - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:41:22.884] [ERROR] app - page-not-found - 400 - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:41:23.161] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:42:33.207] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:42:33.298] [ERROR] app - page-not-found - 400 - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:45:36.696] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:45:37.287] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:45:37.676] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:45:38.414] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:17.449] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:18.226] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:18.277] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:18.910] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:19.108] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:19.771] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:19.925] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:20.563] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:20.781] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:21.443] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:22.082] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:24.502] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T11:46:25.137] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T20:03:27.586] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T20:03:48.347] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T20:03:48.900] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
+[2022-11-15T20:03:52.307] [ERROR] app - Home - 400 - Error on get contentful data:  'forCompanies' - connect ECONNREFUSED 127.0.0.1:443
