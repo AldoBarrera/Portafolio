@@ -1,0 +1,56 @@
+[2022-12-19T13:50:31.704] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-12-19T13:50:31.705] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:50:34.136] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-12-19T13:50:34.136] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:50:40.602] [INFO] app - IpFromBody: Page: /about-us/projects - ip:undefined
+[2022-12-19T13:50:40.602] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:51:13.530] [INFO] app - IpFromBody: Page: /our-services - ip:undefined
+[2022-12-19T13:51:13.530] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:51:18.576] [INFO] app - IpFromBody: Page: /our-services/software-development - ip:undefined
+[2022-12-19T13:51:18.576] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:51:57.630] [INFO] app - IpFromBody: Page: /our-services/software-development - ip:undefined
+[2022-12-19T13:51:57.631] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:52:03.129] [INFO] app - IpFromBody: Page: /our-services/software-quality-assurance - ip:undefined
+[2022-12-19T13:52:03.129] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:52:07.696] [INFO] app - IpFromBody: Page: /our-services/devops - ip:undefined
+[2022-12-19T13:52:07.696] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:52:11.577] [INFO] app - IpFromBody: Page: /our-services/on-demand-software-outsourcing - ip:undefined
+[2022-12-19T13:52:11.577] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:52:17.166] [INFO] app - IpFromBody: Page: /careers - ip:undefined
+[2022-12-19T13:52:17.167] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:52:22.492] [INFO] app - IpFromBody: Page: /careers/work-culture - ip:undefined
+[2022-12-19T13:52:22.492] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:52:26.783] [INFO] app - IpFromBody: Page: /careers/open-positions - ip:undefined
+[2022-12-19T13:52:26.783] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:52:55.532] [INFO] app - IpFromBody: Page: /education - ip:undefined
+[2022-12-19T13:52:55.532] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:53:31.637] [INFO] app - IpFromBody: Page: /careers/open-positions - ip:undefined
+[2022-12-19T13:53:31.637] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:53:37.217] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2022-12-19T13:53:37.217] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:53:43.100] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2022-12-19T13:53:43.100] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:53:46.460] [ERROR] app - Bootcamp Bootcamp - 500 - getStaticProps -Error on get contentful data: bootcampsbootcamp
+[2022-12-19T13:53:57.769] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2022-12-19T13:53:57.769] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:53:58.522] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-12-19T13:53:58.522] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:54:31.666] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2022-12-19T13:54:31.666] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:56:02.277] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2022-12-19T13:56:02.277] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:56:10.661] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2022-12-19T13:56:10.661] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:56:11.775] [ERROR] app - Bootcamp Bootcamp - 500 - getStaticProps -Error on get contentful data: bootcampsbootcamp
+[2022-12-19T13:56:46.954] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2022-12-19T13:56:46.954] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:57:12.042] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2022-12-19T13:57:12.042] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:57:47.813] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2022-12-19T13:57:47.813] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:57:53.341] [INFO] app - IpFromBody: Page: /blog - ip:undefined
+[2022-12-19T13:57:53.341] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:58:33.216] [INFO] app - IpFromBody: Page: /contact - ip:undefined
+[2022-12-19T13:58:33.216] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-12-19T13:58:37.136] [INFO] app - IpFromBody: Page: /blog - ip:undefined
+[2022-12-19T13:58:37.136] [INFO] app - remoteAddress: ::ffff:127.0.0.1

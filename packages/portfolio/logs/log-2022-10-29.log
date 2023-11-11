@@ -1,0 +1,15 @@
+[2022-10-28T22:29:39.963] [ERROR] app - Bootcamp Aplpy - false - 
+[2022-10-28T22:36:57.011] [ERROR] app - Bootcamp Aplpy - false - 
+[2022-10-28T22:49:35.395] [ERROR] app - Open Positions - false - 
+[2022-10-28T22:49:48.761] [ERROR] app - Work Culture - 400 - Error on get contentful data:  'workCulture' - timeout of 30000ms exceeded
+[2022-10-28T22:49:48.790] [ERROR] app - R&D - 400 - Error on get contentful data:  'researchDevelopment' - timeout of 30000ms exceeded
+[2022-10-28T22:52:16.618] [ERROR] app - Other On-demand Services - 400 - timeout of 30000ms exceeded
+[2022-10-28T22:52:33.517] [ERROR] app - For Professionals - 400 - Error on get contentful data:  'forProfessionals' - timeout of 30000ms exceeded
+[2022-10-28T22:57:30.267] [ERROR] app - Bootcamp Aplpy - false - 
+[2022-10-28T23:12:26.601] [ERROR] app - Bootcamp Aplpy - false - 
+[2022-10-28T23:28:26.285] [ERROR] app - Bootcamp Aplpy - false - 
+[2022-10-28T23:38:54.123] [ERROR] app - Bootcamp Aplpy - false - 
+[2022-10-28T23:43:59.513] [ERROR] app - Bootcamp Aplpy - false - 
+[2022-10-29T00:00:26.610] [ERROR] app - Bootcamp Aplpy - false - 
+[2022-10-29T00:15:59.015] [ERROR] app - Bootcamp Aplpy - false - 
+[2022-10-29T00:15:59.772] [ERROR] app - Bootcamp Aplpy - false - 

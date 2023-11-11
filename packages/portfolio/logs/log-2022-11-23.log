@@ -1,0 +1,23 @@
+[2022-11-23T14:29:25.467] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-23T14:29:25.468] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-23T14:29:26.484] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2022-11-23T14:29:26.484] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-23T14:29:29.027] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2022-11-23T14:29:29.028] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-23T14:30:04.551] [INFO] app - IpFromBody: Page: /bootcamps - ip:undefined
+[2022-11-23T14:30:04.552] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-23T14:30:14.187] [INFO] app - IpFromBody: Page: /bootcamps/[id] - ip:undefined
+[2022-11-23T14:30:14.187] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-23T14:30:23.109] [INFO] app - IpFromBody: Page: /bootcamps/[id]/apply - ip:undefined
+[2022-11-23T14:30:23.109] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-23T14:35:25.093] [INFO] app - IpFromBody: Page: /bootcamps/[id]/apply - ip:undefined
+[2022-11-23T14:35:25.094] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-23T14:35:53.871] [INFO] app - IpFromBody: Page: /bootcamps/[id] - ip:undefined
+[2022-11-23T14:35:53.871] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-23T14:36:29.677] [INFO] app - IpFromBody: Page: /bootcamps/[id] - ip:undefined
+[2022-11-23T14:36:29.677] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-23T14:36:41.058] [INFO] app - IpFromBody: Page: /bootcamps/[id]/apply - ip:undefined
+[2022-11-23T14:36:41.058] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-23T14:37:48.793] [INFO] app - IpFromBody: Page: /bootcamps/[id]/apply - ip:undefined
+[2022-11-23T14:37:48.793] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2022-11-23T14:40:59.696] [ERROR] app - Bootcamp Aplpy - false - 

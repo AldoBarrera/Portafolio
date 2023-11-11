@@ -1,0 +1,2 @@
+[2023-08-11T18:19:46.616] [ERROR] app - page-not-found - 500 - getStaticProps -Error on get contentful page: page-not-found
+[2023-08-11T18:22:41.146] [ERROR] app - page-not-found - 500 - getStaticProps -Error on get contentful page: page-not-found

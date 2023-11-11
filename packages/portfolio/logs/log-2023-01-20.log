@@ -1,0 +1,144 @@
+[2023-01-19T22:03:16.280] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2023-01-19T22:03:16.281] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-19T22:03:17.776] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2023-01-19T22:03:17.776] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-19T22:10:11.739] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2023-01-19T22:10:11.739] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-19T22:23:57.220] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-19T22:23:57.221] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-19T22:45:11.764] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2023-01-19T22:45:11.764] [INFO] app - remoteAddress: 127.0.0.1
+[2023-01-19T22:45:12.032] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2023-01-19T22:45:12.033] [INFO] app - remoteAddress: 127.0.0.1
+[2023-01-19T22:45:20.903] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2023-01-19T22:45:20.903] [INFO] app - remoteAddress: 127.0.0.1
+[2023-01-19T22:45:35.004] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2023-01-19T22:45:35.004] [INFO] app - remoteAddress: 127.0.0.1
+[2023-01-20T11:44:14.481] [INFO] app - IpFromBody: Page: /[id] - ip:undefined
+[2023-01-20T11:44:14.482] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T11:53:06.713] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2023-01-20T11:53:06.714] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T11:53:15.511] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2023-01-20T11:53:15.511] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T11:53:21.245] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2023-01-20T11:53:21.245] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:24:48.265] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:24:48.265] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:25:03.401] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2023-01-20T17:25:03.401] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:25:09.159] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:25:09.160] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:25:54.516] [INFO] app - IpFromBody: Page: /careers - ip:undefined
+[2023-01-20T17:25:54.516] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:25:57.693] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2023-01-20T17:25:57.693] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:36:44.320] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:36:44.320] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:37:48.364] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:37:48.364] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:38:03.283] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2023-01-20T17:38:03.284] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:38:08.092] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:38:08.093] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:38:12.283] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:38:12.284] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:38:25.050] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:38:25.050] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:38:40.049] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:38:40.050] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:38:49.796] [INFO] app - IpFromBody: Page: /about-us - ip:undefined
+[2023-01-20T17:38:49.796] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:38:53.764] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:38:53.764] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:39:01.052] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:39:01.052] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:40:05.484] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:40:05.485] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:40:26.566] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:40:26.567] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:43:10.190] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:43:10.191] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:43:10.191] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:43:10.191] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:43:10.192] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:43:10.192] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:43:10.192] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:43:10.192] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:43:10.192] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:43:10.193] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:43:15.780] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:43:15.780] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:43:33.655] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:43:33.655] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:44:04.542] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:44:04.542] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:45:32.690] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:45:32.691] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:46:52.636] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:46:52.637] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:52:27.641] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:52:27.644] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:52:27.646] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:52:27.646] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:52:27.647] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:52:27.647] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:52:27.648] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:52:27.648] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:52:27.649] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:52:27.649] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:52:27.695] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:52:27.695] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:52:27.696] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:52:27.697] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:52:27.739] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:52:27.740] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:52:27.741] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:52:27.742] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:52:29.055] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:52:29.056] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:53:00.641] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T17:53:00.641] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T17:53:16.881] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T17:53:16.881] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:11:34.975] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T19:11:34.977] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:12:09.415] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2023-01-20T19:12:09.416] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:12:09.416] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T19:12:09.417] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:12:22.345] [INFO] app - IpFromBody: Page: /careers/open-positions - ip:undefined
+[2023-01-20T19:12:22.345] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:12:46.904] [INFO] app - IpFromBody: Page: /careers - ip:undefined
+[2023-01-20T19:12:46.904] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:12:46.986] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T19:12:46.986] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:12:59.404] [INFO] app - IpFromBody: Page: /careers/open-positions - ip:undefined
+[2023-01-20T19:12:59.404] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:13:03.867] [INFO] app - IpFromBody: Page: /careers/open-positions - ip:undefined
+[2023-01-20T19:13:03.867] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:13:10.852] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2023-01-20T19:13:10.853] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:13:11.313] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T19:13:11.314] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:13:13.946] [INFO] app - IpFromBody: Page: /careers - ip:undefined
+[2023-01-20T19:13:13.947] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:13:23.136] [INFO] app - IpFromBody: Page: /open-positions/[id] - ip:undefined
+[2023-01-20T19:13:23.138] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:14:09.512] [INFO] app - IpFromBody: Page: /education/bootcamps - ip:undefined
+[2023-01-20T19:14:09.512] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:14:09.613] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T19:14:09.614] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:14:13.648] [INFO] app - IpFromBody: Page: /open-positions/[id] - ip:undefined
+[2023-01-20T19:14:13.648] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:15:13.067] [INFO] app - IpFromBody: Page: /careers - ip:undefined
+[2023-01-20T19:15:13.067] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:15:13.463] [INFO] app - IpFromBody: Page: /education/[id] - ip:undefined
+[2023-01-20T19:15:13.463] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:15:18.827] [INFO] app - IpFromBody: Page: /careers/open-positions - ip:undefined
+[2023-01-20T19:15:18.827] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:15:44.163] [INFO] app - IpFromBody: Page: /open-positions/[id] - ip:undefined
+[2023-01-20T19:15:44.164] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:16:03.160] [INFO] app - IpFromBody: Page: /careers - ip:undefined
+[2023-01-20T19:16:03.160] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-01-20T19:16:20.240] [INFO] app - IpFromBody: Page: /open-positions/[id] - ip:undefined
+[2023-01-20T19:16:20.240] [INFO] app - remoteAddress: ::ffff:127.0.0.1

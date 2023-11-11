@@ -1,0 +1,4 @@
+[2023-03-07T10:57:51.298] [INFO] app - IpFromBody: Page: / - ip:undefined
+[2023-03-07T10:57:51.299] [INFO] app - remoteAddress: ::ffff:127.0.0.1
+[2023-03-07T10:59:54.713] [INFO] app - IpFromBody: Page: /careers - ip:undefined
+[2023-03-07T10:59:54.715] [INFO] app - remoteAddress: ::ffff:127.0.0.1
