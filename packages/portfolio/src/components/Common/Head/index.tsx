@@ -29,7 +29,7 @@ function HeadWrapper({ page }: any) {
           )}
         </>
       ) : (
-        <></>
+        <meta name="robots" content="noindex,nofollow" />
       )}
     </Head>
   )

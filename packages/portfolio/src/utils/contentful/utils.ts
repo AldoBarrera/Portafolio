@@ -36,7 +36,6 @@ const excludePaths = [
   'for-companies',
   'for-professionals',
   'open-positions',
-  'contact',
   'blog',
   'article',
   'author',

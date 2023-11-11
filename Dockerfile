@@ -26,6 +26,12 @@ WORKDIR /app/packages/portfolio
 RUN yarn add typescript@4.4.4
 WORKDIR /app
 
+ARG NEXT_PUBLIC_APP_ENV
+ENV NEXT_PUBLIC_APP_ENV $NEXT_PUBLIC_APP_ENV
+
+ARG CONTENTFUL_HOST
+ENV CONTENTFUL_HOST $CONTENTFUL_HOST
+
 RUN yarn build:portfolio
 # final result
 FROM node:16.3.0-alpine
