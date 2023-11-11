@@ -32,4 +32,4 @@ jobs:
             "NEXT_PUBLIC_APP_ENV=${{ secrets.NEXT_PUBLIC_APP_ENV_PROD }}"
             "CONTENTFUL_HOST"=${{ secrets.CONTENTFUL_HOST_PROD}}
           push: true
-          tags: docker.jala.pro/websites/jalasoft:2.0-POC
+          tags: docker.jala.pro/websites/jalasoft:2.0-POCPROD
