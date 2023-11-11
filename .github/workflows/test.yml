@@ -27,9 +27,9 @@ jobs:
         with:
           context: .
           build-args: |
-            "CONTENTFUL_SPACE_ID=${{ secrets.$CONTENTFUL_SPACE_ID }}"
-            "CONTENTFUL_ACCESS_KEY=${{ secrets.$CONTENTFUL_ACCESS_KEY }}"
-            "NEXT_PUBLIC_APP_ENV=${{ secrets.$NEXT_PUBLIC_APP_ENV }}"
-            "CONTENTFUL_HOST"=${{ secrets.$CONTENTFUL_HOST}}
+            "CONTENTFUL_SPACE_ID=${{ secrets.CONTENTFUL_SPACE_ID }}"
+            "CONTENTFUL_ACCESS_KEY=${{ secrets.CONTENTFUL_ACCESS_KEY }}"
+            "NEXT_PUBLIC_APP_ENV=${{ secrets.NEXT_PUBLIC_APP_ENV }}"
+            "CONTENTFUL_HOST"=${{ secrets.CONTENTFUL_HOST}}
           push: true
           tags: docker.jala.pro/websites/jalasoft:2.0-POC
