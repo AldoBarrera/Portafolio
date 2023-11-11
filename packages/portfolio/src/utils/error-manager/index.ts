@@ -64,7 +64,7 @@ const isSuccessfulResponse = (res: any) => {
   return true
 }
 
-const isNotFound= (res: any) => {
+const isNotFound = (res: any) => {
   if (
     res &&
     Object.keys(res).length === 0 &&
