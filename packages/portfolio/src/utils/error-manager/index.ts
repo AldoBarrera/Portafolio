@@ -17,6 +17,9 @@ const getErrorCode = (res: any) => {
   if (isSuccessfulResponse(res)) {
     return false
   }
+  if (isNotFound(res)) {
+    return STATUS_CODES.NOT_FOUND
+  }
   if (res.status) {
     if (res.ok) return false
     return res.status
@@ -59,6 +62,16 @@ const isSuccessfulResponse = (res: any) => {
     return false
   if (res.status) return res.ok
   return true
+}
+
+const isNotFound= (res: any) => {
+  if (
+    res &&
+    Object.keys(res).length === 0 &&
+    Object.getPrototypeOf(res) === Object.prototype
+  )
+    return true
+  return false
 }
 
 export default {

@@ -8,5 +8,6 @@ export const ERRORS = {
 
 export const STATUS_CODES = {
   INTERNAL_SERVER_ERROR: 500,
-  BAD_REQUEST: 400
+  BAD_REQUEST: 400,
+  NOT_FOUND: 404
 }

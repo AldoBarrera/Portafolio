@@ -7,16 +7,14 @@ import {
   PAGES,
   PAGE,
   GET_STATIC_PROPS,
-  GET_STATIC_PATHS,
-  revalidateTime
+  GET_STATIC_PATHS
 } from 'constants/pages'
 import ErrorManager from 'utils/error-manager'
 
 function DynamicPage({ errorCode, DynamicLayoutData }: any) {
   if (errorCode) {
-    return <Error />
+    return <Error statusCode={errorCode} />
   }
-
   return (
     <>
       <Head page={DynamicLayoutData} />
@@ -35,7 +33,7 @@ export async function getStaticProps({ params }) {
     if (!currentError.status) {
       return {
         props: { errorCode: false, DynamicLayoutData: page },
-        revalidate: revalidateTime
+        revalidate: 1
       }
     } else {
       ErrorManager.throwError(currentError)
@@ -43,6 +41,12 @@ export async function getStaticProps({ params }) {
   } catch (error) {
     const currentError = await ErrorManager.getError(error, '')
     ErrorManager.addError(currentError, PAGES.ID.name)
+    if (currentError.status === 404) {
+      return {
+        notFound: true,
+        revalidate: 1
+      }
+    }
     return {
       props: {
         errorCode: currentError.status,
@@ -68,7 +72,7 @@ export async function getStaticPaths() {
       })
       return {
         paths,
-        fallback: false
+        fallback: 'blocking'
       }
     } else {
       ErrorManager.throwError(currentError)

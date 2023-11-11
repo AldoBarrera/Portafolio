@@ -8,7 +8,7 @@ import Head from 'components/Common/Head'
 
 function DynamicPage({ errorCode, DynamicLayoutData }: any) {
   if (errorCode) {
-    return <Error />
+    return <Error statusCode={errorCode} />
   }
 
   return (

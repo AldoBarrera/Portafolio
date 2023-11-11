@@ -4,11 +4,11 @@ import { PAGES, PAGE, GET_STATIC_PROPS } from '../constants/pages'
 import { ERRORS } from 'constants/errors'
 import ErrorManager from 'utils/error-manager'
 
-const MyCustom404Page = ({ errorCode }) => {
+const MyCustom404Page = ({ errorCode = null }) => {
   if (errorCode) {
-    return <Error />
+    return <Error statusCode={errorCode} />
   }
-  return <></>
+  return <div>custom 404</div>
 }
 export async function getStaticProps() {
   try {
