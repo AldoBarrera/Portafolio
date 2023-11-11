@@ -7,7 +7,8 @@ import {
   PAGES,
   PAGE,
   GET_STATIC_PROPS,
-  GET_STATIC_PATHS
+  GET_STATIC_PATHS,
+  revalidateTime
 } from 'constants/pages'
 import ErrorManager from 'utils/error-manager'
 
@@ -33,7 +34,7 @@ export async function getStaticProps({ params }) {
     if (!currentError.status) {
       return {
         props: { errorCode: false, DynamicLayoutData: page },
-        revalidate: 1
+        revalidate: revalidateTime
       }
     } else {
       ErrorManager.throwError(currentError)

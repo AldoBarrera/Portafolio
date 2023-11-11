@@ -31,5 +31,6 @@ jobs:
             "CONTENTFUL_ACCESS_KEY=${{ secrets.CONTENTFUL_ACCESS_KEY }}"
             "NEXT_PUBLIC_APP_ENV=${{ vars.NEXT_PUBLIC_APP_ENV }}"
             "CONTENTFUL_HOST=${{ vars.CONTENTFUL_HOST }}"
+            "REVALIDATE_TIME=${{ vars.REVALIDATE_TIME }}"
           push: true
           tags: docker.jala.pro/websites/jalasoft:2.0-POC
