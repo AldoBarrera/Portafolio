@@ -29,6 +29,22 @@
     "test:portfolio": "yarn workspace @portfoliomonorepo/portfolio test",
     "generate:portfolio": "yarn workspace @portfoliomonorepo/portfolio generate",
 
+    "dev:portfoliov2": "yarn workspace @portfoliomonorepo/portfoliov2 dev",
+    "build:portfoliov2": "yarn workspace @portfoliomonorepo/portfoliov2 build",
+    "build:static:portfoliov2": "yarn workspace @portfoliomonorepo/portfoliov2 build:static",
+    "start:portfoliov2": "yarn workspace @portfoliomonorepo/portfoliov2 start",
+    "lint:portfoliov2": "yarn workspace @portfoliomonorepo/portfoliov2 lint",
+    "test:portfoliov2": "yarn workspace @portfoliomonorepo/portfoliov2 test",
+    "generate:portfoliov2": "yarn workspace @portfoliomonorepo/portfoliov2 generate",
+
+    "dev:final-example": "yarn workspace @portfoliomonorepo/final-example dev",
+    "build:final-example": "yarn workspace @portfoliomonorepo/final-example build",
+    "build:static:final-example": "yarn workspace @portfoliomonorepo/final-example build:static",
+    "start:final-example": "yarn workspace @portfoliomonorepo/final-example start",
+    "lint:final-example": "yarn workspace @portfoliomonorepo/final-example lint",
+    "test:final-example": "yarn workspace @portfoliomonorepo/final-example test",
+    "generate:final-example": "yarn workspace @portfoliomonorepo/final-example generate",
+
     "dev:jalasoft": "yarn workspace @jalamonorepo/jalasoft dev",
     "build:jalasoft": "yarn workspace @jalamonorepo/jalasoft build",
     "build:static:jalasoft": "yarn workspace @jalamonorepo/jalasoft build:static",
