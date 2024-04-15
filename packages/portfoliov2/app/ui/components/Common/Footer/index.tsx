@@ -9,11 +9,11 @@ function Footer() {
   return (
     <footer>
       <Image
-                src={'/img/author.png'}
-                alt="Footer"
-                width={50}
-                height={50}
-              />
+        src={'/img/author.png'}
+        alt="Footer"
+        width={50}
+        height={50}
+      />
       <section className={styles.Footer_wrapper}>
           <div className={styles.Footer_Main}>
             <Link href="/">
