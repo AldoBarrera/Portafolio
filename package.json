@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "start:demonodejs": "yarn workspace @portfoliomonorepo/demonodejs start",
     "dev:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign dev",
     "build:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign build",
     "build:static:activecampaign": "yarn workspace @activecampaignmonorepo/activecampaign build:static",
