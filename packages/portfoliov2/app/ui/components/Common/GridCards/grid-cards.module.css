@@ -1,0 +1,23 @@
+.GridCards_wrapper {
+    display: flex;
+    width: 60%;
+    margin: auto;
+    gap: 20px;
+    flex-direction: column;
+    background-color: #101518;
+}
+
+.h2 {
+    font-size: 36px;
+    color: white;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+.p {
+    font-size: 17px;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+

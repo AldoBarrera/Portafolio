@@ -1,0 +1,7 @@
+.GridBlue_wrapper {
+    display: flex;
+    background-color: #004BD6;
+    padding: 60px 15%;
+    gap: 20px;
+    flex-wrap: wrap;
+}

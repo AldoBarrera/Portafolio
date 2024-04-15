@@ -1,0 +1,5 @@
+[2024-04-05T11:54:32.414] [ERROR] app - Id - 404 - getStaticProps -Error on get contentful page: test
+[2024-04-05T14:35:03.677] [ERROR] app - Id - 404 - getStaticProps -Error on get contentful page: favicon.ico
+[2024-04-05T14:35:17.689] [ERROR] app - Id - 404 - getStaticProps -Error on get contentful page: test
+[2024-04-05T14:35:27.234] [ERROR] app - Id - 404 - getStaticProps -Error on get contentful page: favicon.ico
+[2024-04-05T14:43:24.857] [ERROR] app - Id - 404 - getStaticProps -Error on get contentful page: test

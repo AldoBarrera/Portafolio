@@ -1,0 +1,36 @@
+.Hero_wrapper {
+    aspect-ratio: 16 / 9;
+    max-width: 100vw;
+    width: 100%;
+    height: 80vh;
+    background-color: #000527;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Hero_video {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.Hero_content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    position: absolute;
+    align-items: center;
+    width: 80%;
+}
+.h1 {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+.p {
+    font-size: 24px;
+    color: #9e9e9e;
+}
+.span {
+    color: #00c9f8;
+}

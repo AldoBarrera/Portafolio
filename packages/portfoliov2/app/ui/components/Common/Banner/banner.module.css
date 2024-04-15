@@ -1,0 +1,24 @@
+.Banner_wrapper {
+    width: 100%;
+    background-color: #2b3439;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 0;
+}
+
+.Banner_img_mobile {
+    display: block;
+}
+.Banner_img_desktop {
+    display: none;
+}
+@media only screen and (min-width: 768px) {
+    .Banner_img_mobile {
+        display: none;
+    }
+    .Banner_img_desktop {
+        display: block;
+    }
+}

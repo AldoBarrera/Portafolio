@@ -1,0 +1,33 @@
+.Main_Header {
+  padding: 1.5rem;
+  position: fixed;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 10;
+  animation: blur linear both;
+  animation-timeline: scroll();
+  animation-range: 0 500px;
+}
+.Main_NavWrapper {
+  flex-direction: row;
+  display: flex;
+  max-width: 80rem;
+  margin: 0 auto;
+  align-items: center;
+}
+.Main__NavMenu {
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+  margin-left: auto;
+}
+.Main__NavItem {
+  cursor: pointer;
+  color: #00c9f8;
+  font-size: 0.9rem;
+}
+.Main__NavItem:hover {
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 0.9rem;
+}
