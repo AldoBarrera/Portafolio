@@ -1,0 +1,28 @@
+.Footer_wrapper {
+    display: flex;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+}
+.Footer_Main {
+    flex: 1;
+    padding: 60px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.Footer_Main p {
+    color: #ffffff;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 400;
+}
+.Footer_Bottom {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    border-top: 1px solid rgba(255,255,255,0.2);
+}

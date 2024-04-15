@@ -1,5 +1,0 @@
-{
-  "spaceId": "<space id of new space>",
-  "managementToken": "MANAGEMENT_TOKEN given by contentful-cli",
-  "contentFile": "<file path of exported json>"
-}

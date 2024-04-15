@@ -1,0 +1,24 @@
+.CallToAction2_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 0;
+    background: linear-gradient(to bottom, #101518 50%, #2B3439 50%);
+}
+
+.CallToAction2_content {
+    background-color: #004BD6;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    flex-direction: column;
+    padding: 60px;
+}
+
+.h2 {
+    font-size: 40px;
+    color: white;
+    margin-bottom: 20px;
+}
