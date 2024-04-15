@@ -1,0 +1,149 @@
+<div class="Hero_wrapper">
+  <video autoPlay muted loop class="Hero_video">
+    <source src="<%= data.Hero.video %>" type="video/mp4" />
+  </video>
+  <section class="Hero_content">
+    <h1><%- data.Hero.title %></h1>
+    <p><%= data.Hero.description %></p>
+    <div class="Button_wrapper">
+      <a href="<%= data.Hero.button.url %>">
+        <span><%= data.Hero.button.label %></span>
+      </a>
+    </div>
+  </section>
+</div>
+<section class="MultimediaContent_wrapper">
+  <div class="MultimediaContent_image">
+    <img
+      src="<%= data.MultimediaContent.image?.file.url %>"
+      alt="<%= data.MultimediaContent.description %>"
+      width=798
+      height=525
+    />
+  </div>
+  <section class="MultimediaContent_content">
+    <p><%= data.MultimediaContent.description %></p>
+    <h2><%= data.MultimediaContent.title %></h2>
+    <div class="Button_wrapper">
+      <a href="<%= data.MultimediaContent.button.url %>">
+        <span><%= data.MultimediaContent.button.label %></span>
+      </a>
+    </div>
+  </section>
+</section>
+<div class="Banner_wrapper">
+  <img
+    src="<%= data.Banner.image?.file.url %>.webp"
+    width=1260
+    height=283
+    class="Banner_img_desktop"
+  />
+  <img
+    src="<%= data.Banner.image?.file.url %>-mobile.webp"
+    width=1260
+    height=283
+    class="Banner_img_mobile"
+  />
+</div>
+<section class="GridBlue_wrapper">
+  <% for(var i=0; i < data.GridBlue.list.length; i++) {  %>
+    <div class="Card_wrapper">
+        <img
+          src="<%= data.GridBlue.list[i].image?.file.url %>"
+          alt="<%= data.GridBlue.list[i].description %>"
+          width=55
+          height=50
+        />
+        <% if (data.GridBlue.list[i].title) { %>
+          <h3><%= data.GridBlue.list[i].title %></h3>
+        <% } %>
+        
+        <p><%= data.GridBlue.list[i].description %></p>
+
+        <% if (data.GridBlue.list[i].button?.label) { %>
+          <div class="Button_wrapper">
+            <a href="<%= data.GridBlue.list[i].button?.url %>">
+              <span><%= data.GridBlue.list[i].button?.label %></span>
+            </a>
+          </div>
+        <% } %>
+    </div>
+  <% } %> 
+</section>
+
+<h2 class="h2"><%= data.MultimediaContent2.title %></h2>
+<section class="MultimediaContent2_wrapper">
+  <section class="MultimediaContent2_content">
+    <% for(var i=0; i < data.MultimediaContent2.list.length; i++) {  %>
+      <div class="MultimediaContent2_item">
+        <% if (data.MultimediaContent2.list[i].title) { %>
+          <p class="title"><%= data.MultimediaContent2.list[i].title %></h3>
+        <% } %>
+        <% if (data.MultimediaContent2.list[i].description) { %>
+          <p class="description"><%= data.MultimediaContent2.list[i].description %></h3>
+        <% } %>
+      </div>
+    <% } %> 
+  </section>
+  <div class="MultimediaContent2_image">
+    <img
+      src="<%= data.MultimediaContent2.image?.file.url %>"
+      alt="Multimedia content 2"
+      width=662
+      height=336
+      class="img"
+    />
+  </div>
+</section>
+
+<div class="CallToAction_wrapper">
+  <div class="CallToAction_content">
+    <% if (data?.CallToAction?.title) { %>
+     <h2 class="h22"><%= data?.CallToAction?.title %></h2>
+    <% } %>
+    <% if (data?.CallToAction.button?.label) { %>
+      <div class="Button_wrapper">
+        <a href="<%= data?.CallToAction.button?.url %>">
+          <span><%= data?.CallToAction.button?.label %></span>
+        </a>
+      </div>
+    <% } %>
+  </div>
+</div>
+
+
+<div class="GridCards_wrapper">
+  <h2 class="h2"><%= data.GridCards.title %></h2>
+  <p class="p"><%= data.GridCards.description %></p>
+  <% for(var i=0; i < data.GridCards.list.length; i++) {  %>
+    <div class="Card2_wrapper">
+        <img
+          src="<%= data.GridCards.list[i].image.file.url %>"
+          alt="image grids cards"
+          width=42
+          height=32
+          className="img"
+        />
+      <p class="p2"><%= data.GridCards.list[i].subtitle %></p>
+      <h3 class="h3"><%= data.GridCards.list[i].title %></h3>
+      <p class="p"><%= data.GridCards.list[i].description %></p>
+      <p class="p3"><%= data.GridCards.list[i].extra %></p>
+      <div class="Button_wrapper">
+        <a href="<%= data?.GridCards.list[i].button?.url %>">
+          <span><%= data?.GridCards.list[i].button?.label %></span>
+        </a>
+      </div>
+    </div>
+  <% } %>
+</div>
+
+<div class="CallToAction2_wrapper">
+  <div class="CallToAction2_content">
+    <h2 class="h2"><%= data?.CallToAction2.title %></h2>
+    <div class="Button_wrapper">
+      <a href="<%= data?.CallToAction2.button?.url %>">
+        <span><%= data?.CallToAction2.button?.label %></span>
+      </a>
+    </div>
+  </div>
+</div>
