@@ -11,7 +11,7 @@ const mock1 =  {
   ],
   logo: {
     file: {
-      url: '/img/logo-jala.webp'
+      url: '/landings/img/logo-jala.webp'
     }
   }
 } 

@@ -3,7 +3,7 @@ services:
   jalasoft:
     container_name: jalasoft
     restart: always
-    image: docker.jala.pro/websites/jalasoft:2.0-POC
+    image: docker.jala.pro/websites/jalasoft:3.0-POC-TEST
     ports:
       - 3000:3000
     networks:

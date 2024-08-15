@@ -1,0 +1,13 @@
+.Wrapper {
+  position: relative;
+  width: var(--imagev2-width-mobile);
+  height: var(--imagev2-height-mobile);
+  
+}
+
+@media (min-width: 769px) {
+  .Wrapper {
+    width: var(--imagev2-width);
+    height: var(--imagev2-height);
+  }
+}

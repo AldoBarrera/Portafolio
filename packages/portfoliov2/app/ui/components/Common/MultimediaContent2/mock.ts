@@ -20,7 +20,7 @@ const mock1 = {
   },
   image: {
     file: {
-      url: '/img/beneficios-02.webp'
+      url: '/landings/img/beneficios-02.webp'
     }
   }
 }

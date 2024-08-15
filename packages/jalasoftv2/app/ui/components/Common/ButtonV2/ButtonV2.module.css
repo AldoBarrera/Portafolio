@@ -1,0 +1,119 @@
+.Button__Base {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: 0.1s ease-in-out;
+  border-radius: var(--theme-border-radius2);
+}
+
+.Size__link, .Size__navbar {
+  padding: 0;
+}
+
+.Size__large {
+  padding: var(--theme-buttonspaces-large-mobile);
+}
+
+.Variant__primary {
+  background: linear-gradient(
+            to right,
+            var(--theme-colors-color7),
+            var(--theme-colors-primary)
+          )
+          padding-box,
+          linear-gradient(
+            to right,
+            var(--theme-colors-color7),
+            var(--theme-colors-primary)
+          )
+          border-box;
+  border: 3px solid var(--theme-colors-transparent);
+}
+
+.Variant__primary:hover {
+  background: linear-gradient(
+            to right,
+            var(--theme-colors-color7),
+            var(--theme-colors-color7)
+          )
+          padding-box,
+          linear-gradient(
+            to right,
+            var(--theme-colors-color7),
+            var(--theme-colors-color7)
+          )
+          border-box;
+  box-shadow: 0 4px 4px var(--theme-colors-color3);
+}
+
+.Variant__primary:active {
+  background: linear-gradient(
+            to right,
+            var(--theme-colors-primary),
+            var(--theme-colors-primary)
+          )
+          padding-box,
+          linear-gradient(
+            to right,
+            var(--theme-colors-primary),
+            var(--theme-colors-primary)
+          )
+          border-box;
+  border: 3px solid var(--theme-colors-color2);
+  box-shadow: none;
+}
+
+.Variant__primary:disabled {
+  cursor: default;
+  background: linear-gradient(
+            to right,
+            var(--theme-colors-color3),
+            var(--theme-colors-color3)
+          )
+          padding-box,
+          linear-gradient(
+            to right,
+            var(--theme-colors-color3),
+            var(--theme-colors-color3)
+          )
+          border-box;
+  border: 3px solid var(--theme-colors-transparent);
+  box-shadow: none;
+}
+
+.Variant__link {
+  background: var(--theme-colors-transparent);
+  border: 3px solid var(--theme-colors-transparent);
+  justify-content: start;
+}
+
+.Variant__navbar {
+  background: var(--theme-colors-transparent);
+  border: 3px solid var(--theme-colors-transparent);
+  justify-content: start;
+}
+
+@media (min-width: 1171px) {
+  .Button__Base {
+    border-radius: var(--theme-border-radius3);
+  }
+
+  .Size__large {
+    padding: var(--theme-buttonspaces-large);
+  }
+
+  .Size__navbar {
+    padding: var(--theme-buttonspaces-navbar);
+  }
+
+  .Variant__navbar {
+    background: var(--theme-colors-primary);
+    border-radius: var(--theme-border-radius1);
+  }
+
+  .Variant__navbar p {
+    color: var(--theme-colors-white);
+  }
+}

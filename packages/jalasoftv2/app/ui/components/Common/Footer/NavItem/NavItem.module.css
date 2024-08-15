@@ -1,0 +1,11 @@
+.Box {
+  display: flex;
+  flex-direction: column;
+  gap: var(--theme-grid-gap2);
+}
+
+.Item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,7 +1,7 @@
 const mock1 = {
   image: {
     file: {
-      url: '/img/banner-bootcamp'
+      url: '/landings/img/banner-bootcamp'
     }
   }
 }

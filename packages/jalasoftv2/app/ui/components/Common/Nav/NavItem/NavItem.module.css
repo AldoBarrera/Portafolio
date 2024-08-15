@@ -1,0 +1,28 @@
+.Item {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  gap: var(--theme-grid-gap0);
+}
+
+@media (min-width: 1171px) {
+  .Box {
+    height: 100%;
+  }
+  
+  .Box::after {
+    content: ' ';
+    display: block;
+    width: 0;
+    height: 0;
+    background: var(--theme-colors-primary);
+    transition: width 0.3s;
+  
+  }
+  
+  .Box:hover::after {
+    width: 100%;
+    height: 3px;
+    margin-top: -2px;
+  }
+}

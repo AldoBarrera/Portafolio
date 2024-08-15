@@ -1,0 +1,29 @@
+.Breadcrumb__Content ol {
+  list-style: none;
+  display: flex;
+}
+
+.Breadcrumb__Content ol li:not(:first-of-type)::before {
+  content: '>';
+  margin: 0 var(--spaces-xtiny);
+  color: var(--breadcrumb-color, var(--theme-colors-black));
+}
+
+.Breadcrumb__Content a {
+  font-size: var(--font-p-size-desktop);
+  text-decoration: none;
+  text-transform: capitalize;
+  font-family: Nunito;
+  color: var(--breadcrumb-color, var(--theme-colors-black));
+}
+
+.Breadcrumb__Content {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .Breadcrumb__Content {
+    display: unset;
+    padding: 20px 0px;
+  }
+}

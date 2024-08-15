@@ -3,7 +3,7 @@ const mock1 = {
     description: 'Exclusive for members of the Fundación del Saber',
     image: {
       file: {
-        url: '/img/docentes.webp'
+        url: '/landings/img/docentes.webp'
       }
     }
   },
@@ -11,7 +11,7 @@ const mock1 = {
     description: 'Industry professionals work together for your growth',
     image: {
       file: {
-        url: '/img/Exclsusivo.webp'
+        url: '/landings/img/Exclsusivo.webp'
       }
     }
   },
@@ -19,7 +19,7 @@ const mock1 = {
     description: 'Comprehensive financial support granted by the Fundación del Saber',
     image: {
       file: {
-        url: '/img/exclusividad-FDS.webp'
+        url: '/landings/img/exclusividad-FDS.webp'
       }
     }
   }]

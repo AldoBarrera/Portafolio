@@ -1,0 +1,40 @@
+export const htmlMap = {
+  document: '',
+  paragraph: 'p',
+  bold: 'strong',
+  italic: 'em',
+  underline: 'u',
+  superscript: 'sup',
+  subscript: 'sub',
+  code: 'code',
+  hyperlink: 'a',
+  hr: 'hr',
+  table: 'table',
+  image: 'img',
+  video: 'iframe',
+  'heading-1': 'h1',
+  'heading-2': 'h2',
+  'heading-3': 'h3',
+  'heading-4': 'h4',
+  'heading-5': 'h5',
+  'heading-6': 'h6',
+  'unordered-list': 'ul',
+  'ordered-list': 'ol',
+  'list-item': 'li',
+  'table-row': 'tr',
+  'table-cell': 'td',
+  'table-header-cell': 'th'
+}
+
+export const lineBreakTags = [
+  'p',
+  'h1',
+  'h2',
+  'h3',
+  'h4',
+  'h5',
+  'h6',
+  'table',
+  'hr',
+  'img'
+]

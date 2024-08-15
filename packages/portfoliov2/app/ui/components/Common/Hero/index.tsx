@@ -4,10 +4,10 @@ import Button, { ButtonType } from '@/app/ui/components/Common/Button'
 import styles from '@/app/ui/components/Common/Hero/hero.module.css'
 export const mockHero = mock1
 export type HeroType = {
-  title: string
+  title?: string
   description?: string
   video?: string
-  button: ButtonType
+  buttons?: ButtonType[]
 }
 
 const highlightWords = (text: string) => {
@@ -22,7 +22,7 @@ const highlightWords = (text: string) => {
     }
   });
 };
-function Hero({ video, title, description, button }: HeroType) {
+function Hero({ video, title, description, buttons }: HeroType) {
   return (
     <div className={styles.Hero_wrapper}>
       <video autoPlay muted loop className={styles.Hero_video}>
@@ -31,7 +31,9 @@ function Hero({ video, title, description, button }: HeroType) {
       <section className={styles.Hero_content}>
         <h1 className={styles.h1}>{highlightWords(title)}</h1>
         <p className={styles.p}>{description}</p>
-        <Button url={button.url} label={button.label} />
+        {buttons?.map((buttonItem, index) => 
+          <Button key={index} url={buttonItem.url} label={buttonItem.label} />
+        )}
       </section>
     </div>
   )

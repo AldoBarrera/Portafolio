@@ -7,7 +7,7 @@ const mock1 = {
   },
   image: {
     file: {
-      url: '/img/primera-univerdad-une-educacion-industria.webp'
+      url: '/landings/img/primera-univerdad-une-educacion-industria.webp'
     }
   }
 }

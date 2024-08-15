@@ -9,7 +9,7 @@ function Footer() {
   return (
     <footer>
       <Image
-        src={'/img/author.png'}
+        src={'/landings/img/author.png'}
         alt="Footer"
         width={50}
         height={50}
@@ -18,7 +18,7 @@ function Footer() {
           <div className={styles.Footer_Main}>
             <Link href="/">
               <Image
-                src={'/img/logo-jala.webp'}
+                src={'/landings/img/logo-jala.webp'}
                 alt="Footer"
                 priority={true}
                 width={141}
