@@ -12,7 +12,7 @@ module.exports = {
         ],
         logo: {
         file: {
-            url: '/img/logo-jala.webp'
+            url: '/landings/img/logo-jala.webp'
         }
         }
     },
@@ -34,7 +34,7 @@ module.exports = {
         },
         image: {
           file: {
-            url: '/img/primera-univerdad-une-educacion-industria.webp'
+            url: '/landings/img/primera-univerdad-une-educacion-industria.webp'
           }
         }
     },
@@ -43,7 +43,7 @@ module.exports = {
             description: 'Exclusive for members of the Fundación del Saber',
             image: {
                 file: {
-                    url: '/img/docentes.webp'
+                    url: '/landings/img/docentes.webp'
                 }
             }
         },
@@ -51,7 +51,7 @@ module.exports = {
             description: 'Industry professionals work together for your growth',
             image: {
                 file: {
-                    url: '/img/Exclsusivo.webp'
+                    url: '/landings/img/Exclsusivo.webp'
                 }
             }
         },
@@ -59,7 +59,7 @@ module.exports = {
             description: 'Comprehensive financial support granted by the Fundación del Saber',
             image: {
                 file: {
-                    url: '/img/exclusividad-FDS.webp'
+                    url: '/landings/img/exclusividad-FDS.webp'
                 }
             }
         }]
@@ -67,7 +67,7 @@ module.exports = {
     Banner: {
         image: {
           file: {
-            url: '/img/banner-bootcamp'
+            url: '/landings/img/banner-bootcamp'
           }
         }
     },
@@ -93,7 +93,7 @@ module.exports = {
         },
         image: {
           file: {
-            url: '/img/beneficios-02.webp'
+            url: '/landings/img/beneficios-02.webp'
           }
         }
       },
@@ -118,7 +118,7 @@ module.exports = {
         },
         image: {
           file: {
-            url: '/img/card-1.webp'
+            url: '/landings/img/card-1.webp'
           }
         }
       }]

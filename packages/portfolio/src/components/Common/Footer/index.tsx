@@ -11,7 +11,7 @@ export type FooterProps = {
 }
 
 function Footer() {
-  const src = `/img/logo-jalasoft.svg`
+  const src = `/landings/img/logo-jalasoft.svg`
   return (
     <Style.FooterWrapper>
       <Style.FooterLogosWrapper>

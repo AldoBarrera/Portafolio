@@ -12,7 +12,7 @@ const mock1 = {
     },
     image: {
       file: {
-        url: '/img/card-1.webp'
+        url: '/landings/img/card-1.webp'
       }
     }
   }]

@@ -1,0 +1,87 @@
+.Button {
+  align-self: center;
+}
+
+.Container {
+  display: grid;
+  gap: var(--theme-grid-gap3);
+  grid-template-areas: "text text" "mosaic mosaic";
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.TextContainer {
+  grid-area: text;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--theme-grid-gap1);
+  justify-self: center;
+  white-space: pre-line;
+  text-align: center;
+}
+
+.MosaicContainer {
+  grid-area: mosaic;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: 1fr;
+  gap: var(--theme-grid-gap1);
+  width: 100%;
+  justify-self: var(--mosaicandtext-justify-self, start);
+}
+
+.Image span {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.Image img {
+  width: 100% !important;
+  height: 100% !important;
+  aspect-ratio: 3/2;
+  object-fit: cover !important;
+  margin: 0 !important;
+}
+
+.Image:nth-child(1) {
+  grid-column: var(--mosaicandtext-child1-gridcolumn);
+  grid-row: var(--mosaicandtext-child1-gridrow);
+}
+
+.Image:nth-child(2) {
+  grid-column: var(--mosaicandtext-child1-gridcolumn);
+  grid-row: var(--mosaicandtext-child1-gridrow);
+}
+
+.Image:nth-child(3) {
+  grid-column: var(--mosaicandtext-child2-gridcolumn);
+}
+.Image:nth-child(4) {
+  grid-column: var(--mosaicandtext-child2-gridcolumn);
+}
+
+.Image:nth-child(5) {
+  grid-column: var(--mosaicandtext-child3-gridcolumn);
+}
+.Image:nth-child(6) {
+  grid-column: var(--mosaicandtext-child3-gridcolumn);
+}
+
+@media (min-width: 1170px) {
+  .Container {
+    grid-template-areas: var(--mosaicandtext-grid-areas);
+    gap: var(--theme-grid-gap7);
+  }
+  .TextContainer {
+    gap: var(--theme-grid-gap3);
+    justify-self: var(--mosaicandtext-justify-self, start);
+    text-align: unset;
+  }
+  .Button {
+    align-self: flex-start;
+  }
+  .MosaicContainer {
+    gap: var(--theme-grid-gap1);
+    
+  }
+}

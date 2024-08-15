@@ -1,0 +1,76 @@
+.Logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Content__Mobile {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+
+.Content__Desktop {
+  display: none;
+}
+
+.Information {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--theme-grid-gap1);
+}
+
+.Links {
+  display: flex;
+  gap: var(--theme-grid-gap1);
+}
+
+.ContactButton {
+  flex-basis: 100%;
+}
+
+@media (min-width: 1171px) {
+  .Logo {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: unset;
+    gap: var(--theme-grid-gap1);
+  }
+
+  .Content__Mobile {
+    display: none;
+  }
+
+  .Content__Desktop {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-height: 820px;
+    gap: var(--theme-grid-gap5);
+    list-style: none;
+  }
+
+  .Information {
+    position: absolute;
+    bottom: 100px;
+    right: 132px;
+    align-items: flex-end;
+  }
+
+  .ContactButton {
+    flex-basis: unset;
+  }
+}
+
+@media (min-width: 1441px) {
+  .Content__Desktop {
+    max-height: 400px;
+  }
+  .ContactButton {
+    flex-basis: 100%;
+  }
+}

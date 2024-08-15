@@ -1,0 +1,19 @@
+.Showsubmenu {
+  padding-left: var(--theme-grid-gap2);
+  padding-bottom: var(--theme-grid-gap2);
+  display: grid;
+  grid-template-rows: 1fr;
+  transition: grid-template-rows 0.5s;
+}
+
+.Hidesubmenu {
+  display: grid;
+  grid-template-rows: 0fr;
+}
+
+.Submenu {
+  display: flex;
+  flex-direction: column;
+  gap: var(--submenu-gap, 0);
+  overflow: hidden;
+}

@@ -3,7 +3,7 @@
   "short_name": "React Avançado",
   "icons": [
     {
-      "src": "/img/icon-75.ico",
+      "src": "/landings/img/icon-75.ico",
       "type": "image/x-icon",
       "sizes": "75x75"
     }
