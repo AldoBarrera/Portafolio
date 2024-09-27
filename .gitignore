@@ -35,3 +35,9 @@ workbox-*.js
  
 # storybook
 storybook-static
+
+node_modules/
+
+logs_data/
+
+postgres_data/

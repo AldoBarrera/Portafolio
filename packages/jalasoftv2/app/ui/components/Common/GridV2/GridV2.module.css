@@ -1,5 +1,0 @@
-.Container {
-  display: grid;
-  grid-template-columns: var(--gridv2-columns, repeat(auto-fit,minmax(300px, 1fr)));
-  gap: var(--gridv2-gap, 0);
-}

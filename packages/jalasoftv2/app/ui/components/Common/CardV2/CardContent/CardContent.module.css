@@ -1,7 +1,0 @@
-.Container {
-  display: flex;
-  flex-direction: var(--cardcontent-flex-direction, column);
-  align-items: var(--cardcontent-align-items, start);
-  gap: var(--cardcontent-flex-gap, var(--theme-grid-gap2, 0));
-  text-align: var(--cardcontent-text-align, 'left');
-}
